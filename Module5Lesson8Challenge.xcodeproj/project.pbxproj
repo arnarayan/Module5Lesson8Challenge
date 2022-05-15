@@ -11,6 +11,7 @@
 		00092AD82830AF170083939C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00092AD72830AF170083939C /* ContentView.swift */; };
 		00092ADA2830AF1B0083939C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00092AD92830AF1B0083939C /* Assets.xcassets */; };
 		00092ADD2830AF1B0083939C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00092ADC2830AF1B0083939C /* Preview Assets.xcassets */; };
+		00092AE42830B2030083939C /* YourNumberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00092AE32830B2030083939C /* YourNumberView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		00092AD72830AF170083939C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		00092AD92830AF1B0083939C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00092ADC2830AF1B0083939C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00092AE32830B2030083939C /* YourNumberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourNumberView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				00092AD72830AF170083939C /* ContentView.swift */,
 				00092AD92830AF1B0083939C /* Assets.xcassets */,
 				00092ADB2830AF1B0083939C /* Preview Content */,
+				00092AE32830B2030083939C /* YourNumberView.swift */,
 			);
 			path = Module5Lesson8Challenge;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00092AD82830AF170083939C /* ContentView.swift in Sources */,
+				00092AE42830B2030083939C /* YourNumberView.swift in Sources */,
 				00092AD62830AF170083939C /* Module5Lesson8ChallengeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
